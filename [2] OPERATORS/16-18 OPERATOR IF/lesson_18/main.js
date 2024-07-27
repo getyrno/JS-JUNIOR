@@ -24,7 +24,7 @@ if (a > b || c > b || c < a) {
 // console.error(false):
 //     Выводит сообщение false в консоль с уровнем ошибки.
 
-// console.info(true):
+// console.[5.0] info-functions.md(true):
 //     Выводит сообщение true в консоль с информационным уровнем.
 
 
